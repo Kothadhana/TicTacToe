@@ -1,0 +1,58 @@
+.whole{
+  background-color: #1f4068;
+  color: #e43f5a;;
+}
+h1{
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  padding: 30px;
+  text-shadow: 2px 2px pink;
+}
+h3{
+  font-family: 'Pacifico', cursive;
+  padding: 30px;
+
+}
+.gametable{
+  padding: 30px;
+  text-align: center;
+}
+.start{
+  width: 150px;
+  height: 50px;
+  font-weight: bold;
+}
+.game{
+  text-align: center;
+  align-items: center;
+}
+.col button{
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+.col{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-weight: 300;
+}
+.row{
+  text-align: center;
+}
+td{
+  min-width: 100px;
+  max-width: 150px;
+}
+tr{
+  min-height: 100px;
+  max-height: 150px;
+
+}
+table{
+  min-width: 300px;
+  max-width: 450px;
+  min-height: 300px;
+  max-height: 450px;
+}
